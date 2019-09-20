@@ -2,7 +2,7 @@
   "name": "my-site",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://mrscottstubbs.github.io/app",
+  "homepage" : "http://mrscottstubbs.github.io/",
   "dependencies": {
     "aos": "^3.0.0-beta.6",
     "bootstrap": "^4.3.1",
