@@ -1,0 +1,123 @@
+/* got the color themes here https://colorhunt.co/palettes/popular*/
+.App {
+  text-align: center;
+  background: #f0f5f9;
+  color: #52616b;
+}
+
+.App-header {
+  min-height: 8vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #f0f5f9;
+  background-color: #52616b;
+}
+
+.slide-header {
+  width: 66%;
+  position: absolute;
+
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}
+
+.App-body{
+  font-size: calc(10px + 2vmin);
+  min-height: 100vh;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow-x: hidden;
+
+}
+
+.Tabs{
+  justify-content: center;
+  align-items: center;
+  position:relative;
+  margin-left: auto;
+  margin-right: auto;
+  color: #1e2022;
+}
+
+.Tab{
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: #1e2022;
+}
+
+.Tab-Content{
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-link {
+  color: #52616b;
+  display: block;
+}
+
+.padded-top {
+  padding-top: 3em;
+  font-family: 'Lora', serif;
+}
+
+.image-container {
+  display: inline-block;
+  width: 50%;
+}
+
+.rounded-image {
+  top: 0;
+  left: 0;
+  border-radius: 5%;
+}
+
+.circles {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+}
+
+.lang {
+  min-width: 100%;
+  min-height: 100%;
+  overflow-x: auto;
+  display: flex;
+
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+}
+
+.lang--content {
+  min-width: 150px;
+  min-height: 100px;
+  margin: 5px;
+}
+
+.uncontrolled-tab-example{
+  color: #69779b;
+}
+
+.Languages{
+  color: #69779b;
+}
+
+.hover-silver:focus {
+    color: #1e2022;
+}
