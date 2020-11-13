@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b563d3e6.chunk.css",
+    "main.css": "/static/css/main.8881ef28.chunk.css",
     "main.js": "/static/js/main.0d2c335b.chunk.js",
     "main.js.map": "/static/js/main.0d2c335b.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.e372dabb.js",
@@ -9,10 +9,10 @@
     "static/js/2.29d95b47.chunk.js": "/static/js/2.29d95b47.chunk.js",
     "static/js/2.29d95b47.chunk.js.map": "/static/js/2.29d95b47.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3d77b81143366649759fce6b1d8e1848.js": "/precache-manifest.3d77b81143366649759fce6b1d8e1848.js",
+    "precache-manifest.e6697a84232bdb3c82178e6c7d771a62.js": "/precache-manifest.e6697a84232bdb3c82178e6c7d771a62.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d8bb8de5.chunk.css.map": "/static/css/2.d8bb8de5.chunk.css.map",
-    "static/css/main.b563d3e6.chunk.css.map": "/static/css/main.b563d3e6.chunk.css.map",
+    "static/css/main.8881ef28.chunk.css.map": "/static/css/main.8881ef28.chunk.css.map",
     "static/media/LIRR.png": "/static/media/LIRR.f230648e.png",
     "static/media/TABot.png": "/static/media/TABot.9ffc9434.png",
     "static/media/androidstudio.png": "/static/media/androidstudio.a803e97a.png",
